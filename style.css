@@ -1,0 +1,81 @@
+.body{
+    height: 1024px;
+    width: 1440px;
+    left: -1372px;
+    top: -376px;
+    border-radius: 0px;
+    display: flex;
+    background-color: #292929;
+}
+header{
+    position: absolute;
+    width: 128px;
+    height: 68px;
+    left: 656px;
+    top: 39px;
+}
+.container{
+    box-sizing: border-box;
+    position: absolute;
+    width: 940px;
+    height: 437px;
+    left: 250px;
+    top: 354px;
+
+    background: #E5E5E5;
+    border: 3px solid #51E678;
+    border-radius: 8px;
+}
+.text_container{
+    font-family: 'Barlow' ;
+    font-style: normal;
+    position: absolute;
+}
+#titulo{
+    font-family: 'Barlow', sans-serif;
+    position: absolute;
+    left: 295px;
+    top: 0px;
+    font-style: normal;
+    font-weight: 750;
+    font-size: 40px;
+    line-height: 50px;
+    color: rgba(41, 41, 41, 0.8);
+}
+#nome_da_cor{
+    font-family: 'Barlow', sans-serif;
+    position: absolute;
+    left: 150px;
+    top: 89px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 77px;
+    text-align: center;
+    color: #292929;
+}
+.button{
+    position: absolute;
+    width: 412px;
+    height: 64px;
+    left: 264px;
+    top: 301px;
+
+    background: #51E678;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    color: #292929;
+}
+#trocar{
+    position: absolute;
+    left: 158px;
+    top: -20px;
+
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #292929;
+}
